@@ -101,7 +101,7 @@ obj0.Greeting();
 
 cout << endl;
 
-Avatar obj01, obj001("Codebuddie", "virgill@gamerclub.com");
+Avatar obj01, obj001("Codebuddie", "username@example.com");
 obj001.AvatarGreeting();
 cout << endl;
 obj01.HighScore(678.9);
